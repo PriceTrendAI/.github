@@ -1,5 +1,4 @@
 # Price Trend AI - 부동산 가격 예측 서비스
-<br>
 
 ## 프로젝트 개요
 - **프로젝트명**: Price Trend AI
